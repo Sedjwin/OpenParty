@@ -5,7 +5,7 @@ This repo is meant to demonstrate and document the intentions of OpenParty: a tr
 
 ## Versions
 
-*   [Version 1 (V1)](https://github.com/Sedjwin/OpenPartyV1) - A functional proof-of-concept demonstrating the core ideas.
+*   [Version 1 (V1)](https://sedjwin.github.io/OpenPartyV1/) ([Code](https://github.com/Sedjwin/OpenPartyV1))- A functional proof-of-concept demonstrating the core ideas.
 
 ## License and Philosophy
 
